@@ -1,6 +1,8 @@
 # Git_Pract
-This is the Git Practice repository 
+This is the Git Practice repository
 <BR>
-Author- Shubham
+Author - Shubham
 <br>
 legend - IRONMAN
+<br>
+Kurchi Mardapeti
